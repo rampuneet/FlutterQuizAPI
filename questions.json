@@ -11,7 +11,7 @@
         {
           "question": "In which year did India gain independence from British rule?",
           "options": ["1942", "1945", "1947", "1950"],
-          "correctIndex": 2
+          "correctIndex": 1
         },
         {
           "question": "Who was the first President of the United States?",
@@ -242,3 +242,4 @@
     }
   ]
 }
+
