@@ -1,0 +1,244 @@
+{
+  "categories": [
+    {
+      "name": "History",
+      "questions": [
+        {
+          "question": "Who was the first Mughal Emperor of India?",
+          "options": ["Akbar", "Humayun", "Babur", "Aurangzeb"],
+          "correctIndex": 2
+        },
+        {
+          "question": "In which year did India gain independence from British rule?",
+          "options": ["1942", "1945", "1947", "1950"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+          "correctIndex": 1
+        },
+        {
+          "question": "The Great Wall of China was mainly built to protect against invasions from:",
+          "options": ["Japanese", "Mongols", "Koreans", "Persians"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Who was known as the “Iron Lady” of British politics?",
+          "options": ["Theresa May", "Indira Gandhi", "Margaret Thatcher", "Queen Victoria"],
+          "correctIndex": 2
+        },
+        {
+          "question": "The French Revolution began in which year?",
+          "options": ["1776", "1789", "1815", "1848"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Who was the founder of the Maurya Empire in India?",
+          "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Harsha"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "questions": [
+        {
+          "question": "What is the value of 15 + 27?",
+          "options": ["32", "42", "52", "62"],
+          "correctIndex": 1
+        },
+        {
+          "question": "If a triangle has sides 3 cm, 4 cm, and 5 cm, it is:",
+          "options": ["Equilateral", "Isosceles", "Right-angled", "Scalene (but not right-angled)"],
+          "correctIndex": 2
+        },
+        {
+          "question": "The value of 12 × 8 is:",
+          "options": ["96", "108", "88", "112"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Solve: 64 ÷ 8",
+          "options": ["6", "7", "8", "9"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which of the following is a prime number?",
+          "options": ["21", "29", "33", "35"],
+          "correctIndex": 1
+        },
+        {
+          "question": "The perimeter of a square with side 9 cm is:",
+          "options": ["18 cm", "27 cm", "36 cm", "81 cm"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What is 3/4 + 2/4?",
+          "options": ["4/4", "5/4", "3/8", "1/2"],
+          "correctIndex": 1
+        },
+        {
+          "question": "If the radius of a circle is 7 cm, its diameter is:",
+          "options": ["7 cm", "14 cm", "21 cm", "28 cm"],
+          "correctIndex": 1
+        },
+        {
+          "question": "The square root of 121 is:",
+          "options": ["10", "11", "12", "13"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": ["O₂", "H₂O", "CO₂", "HO"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What part of the plant conducts photosynthesis?",
+          "options": ["Roots", "Stem", "Leaves", "Flowers"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which gas do humans exhale?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the center of an atom called?",
+          "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which organ in the human body pumps blood?",
+          "options": ["Brain", "Lungs", "Heart", "Kidney"],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "question": "Which country won the FIFA World Cup in 2018?",
+          "options": ["Brazil", "Germany", "France", "Argentina"],
+          "correctIndex": 2
+        },
+        {
+          "question": "In tennis, what is the term for a score of zero?",
+          "options": ["Ace", "Love", "Deuce", "Fault"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which athlete is known as the “Fastest Man in the World”?",
+          "options": ["Carl Lewis", "Usain Bolt", "Justin Gatlin", "Michael Johnson"],
+          "correctIndex": 1
+        },
+        {
+          "question": "How many players are there in a standard basketball team on the court?",
+          "options": ["5", "6", "7", "8"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which country hosts the annual Tour de France cycling race?",
+          "options": ["Italy", "France", "Spain", "Belgium"],
+          "correctIndex": 1
+        },
+        {
+          "question": "In which sport is the Stanley Cup awarded?",
+          "options": ["Baseball", "Ice Hockey", "Basketball", "Football"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Who holds the record for most Grand Slam singles titles in men’s tennis?",
+          "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which country has won the most Olympic gold medals in history?",
+          "options": ["Russia", "China", "USA", "Germany"],
+          "correctIndex": 2
+        },
+        {
+          "question": "In which sport would you perform a ‘slam dunk’?",
+          "options": ["Volleyball", "Basketball", "Handball", "Rugby"],
+          "correctIndex": 1
+        },
+        {
+          "question": "How long is a standard Olympic swimming pool?",
+          "options": ["25 meters", "50 meters", "100 meters", "200 meters"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which sport uses the terms “birdie” and “eagle”?",
+          "options": ["Badminton", "Golf", "Cricket", "Tennis"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which country won the first-ever Cricket World Cup in 1975?",
+          "options": ["India", "England", "West Indies", "Australia"],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "questions": [
+        {
+          "question": "Choose the correct synonym for 'Happy':",
+          "options": ["Sad", "Angry", "Joyful", "Tired"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Identify the correctly spelled word:",
+          "options": ["Recieve", "Receive", "Recieeve", "Receeve"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Choose the correct form of the verb: 'She _____ to school every day.'",
+          "options": ["Go", "Goes", "Going", "Went"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Pick the correct antonym for 'Difficult':",
+          "options": ["Hard", "Easy", "Tough", "Complicated"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Select the correct sentence:",
+          "options": [
+            "He don’t like pizza.",
+            "He doesn’t likes pizza.",
+            "He doesn’t like pizza.",
+            "He not likes pizza."
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Choose the word that completes the sentence: 'I have _____ apples than you.'",
+          "options": ["More", "Much", "Many", "Most"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Identify the part of speech of the underlined word: 'She runs quickly.'",
+          "options": ["Noun", "Adjective", "Adverb", "Verb"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Choose the correct article: 'I saw _____ elephant at the zoo.'",
+          "options": ["A", "An", "The", "No article"],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}
