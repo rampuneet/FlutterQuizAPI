@@ -24,7 +24,7 @@
           "correctIndex": 1
         },
         {
-          "question": "Who was known as the “Iron Lady” of British politics?",
+          "question": "Who was known as the 'Iron Lady' of British politics?",
           "options": ["Theresa May", "Indira Gandhi", "Margaret Thatcher", "Queen Victoria"],
           "correctIndex": 2
         },
@@ -139,7 +139,7 @@
           "correctIndex": 1
         },
         {
-          "question": "Which athlete is known as the “Fastest Man in the World”?",
+          "question": "Which athlete is known as the 'Fastest Man in the World'?",
           "options": ["Carl Lewis", "Usain Bolt", "Justin Gatlin", "Michael Johnson"],
           "correctIndex": 1
         },
@@ -169,7 +169,7 @@
           "correctIndex": 2
         },
         {
-          "question": "In which sport would you perform a ‘slam dunk’?",
+          "question": "In which sport would you perform a 'slam dunk'?",
           "options": ["Volleyball", "Basketball", "Handball", "Rugby"],
           "correctIndex": 1
         },
@@ -179,7 +179,7 @@
           "correctIndex": 1
         },
         {
-          "question": "Which sport uses the terms “birdie” and “eagle”?",
+          "question": "Which sport uses the terms 'birdie' and 'eagle'?",
           "options": ["Badminton", "Golf", "Cricket", "Tennis"],
           "correctIndex": 1
         },
@@ -229,11 +229,9 @@
           "correctIndex": 0
         },
         {
-          {
-            "question": "Identify the part of speech of the word 'quickly' in the sentence: She runs quickly.",
-            "options": ["Noun", "Adjective", "Adverb", "Verb"],
-            "correctIndex": 2
-          }
+          "question": "Identify the part of speech of the word 'quickly' in the sentence: She runs quickly.",
+          "options": ["Noun", "Adjective", "Adverb", "Verb"],
+          "correctIndex": 2
         },
         {
           "question": "Choose the correct article: 'I saw _____ elephant at the zoo.'",
@@ -243,157 +241,154 @@
       ]
     },
     {
-  "name": "General Knowledge",
-  "questions": [
-    {
-      "question": "Which planet is closest to the Sun?",
-      "options": ["Mercury", "Venus", "Earth", "Mars"],
-      "correctIndex": 0
+      "name": "General Knowledge",
+      "questions": [
+        {
+          "question": "Which planet is closest to the Sun?",
+          "options": ["Mercury", "Venus", "Earth", "Mars"],
+          "correctIndex": 0
+        },
+        {
+          "question": "How many colors are there in a rainbow?",
+          "options": ["5", "6", "7", "8"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which instrument measures temperature?",
+          "options": ["Barometer", "Thermometer", "Hygrometer", "Speedometer"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Who invented the telephone?",
+          "options": ["Thomas Edison", "Alexander Graham Bell", "Isaac Newton", "Nikola Tesla"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which day is celebrated as World Environment Day?",
+          "options": ["June 5", "April 22", "March 21", "October 2"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the national animal of India?",
+          "options": ["Elephant", "Lion", "Tiger", "Leopard"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which festival is known as the Festival of Lights?",
+          "options": ["Holi", "Diwali", "Navratri", "Eid"],
+          "correctIndex": 1
+        }
+      ]
     },
     {
-      "question": "How many colors are there in a rainbow?",
-      "options": ["5", "6", "7", "8"],
-      "correctIndex": 2
+      "name": "Technology",
+      "questions": [
+        {
+          "question": "Who is known as the father of the computer?",
+          "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What does 'CPU' stand for?",
+          "options": ["Central Process Unit", "Central Processing Unit", "Computer Primary Unit", "Central Programming Unit"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which company developed the Android operating system?",
+          "options": ["Apple", "Microsoft", "Google", "IBM"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What is the shortcut for 'Copy' on a Windows computer?",
+          "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + A"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which device is used to store data permanently?",
+          "options": ["RAM", "Hard Disk", "Cache", "Register"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the full form of 'Wi-Fi'?",
+          "options": ["Wireless Fidelity", "Wired Finder", "Wide Finder", "Wireless Finder"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which of the following is a web browser?",
+          "options": ["Google", "Bing", "Chrome", "Windows"],
+          "correctIndex": 2
+        }
+      ]
     },
     {
-      "question": "Which instrument measures temperature?",
-      "options": ["Barometer", "Thermometer", "Hygrometer", "Speedometer"],
-      "correctIndex": 1
+      "name": "Art & Culture",
+      "questions": [
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which dance form originates from Kerala?",
+          "options": ["Bharatanatyam", "Kathakali", "Odissi", "Manipuri"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Taj Mahal was built by which Mughal emperor?",
+          "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which instrument does a sitarist play?",
+          "options": ["Violin", "Flute", "Sitar", "Tabla"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which festival marks the victory of good over evil in India?",
+          "options": ["Holi", "Navratri", "Dussehra", "Diwali"],
+          "correctIndex": 2
+        },
+        {
+          "question": "The Ajanta Caves are famous for what?",
+          "options": ["Sculptures", "Paintings", "Architecture", "Weapons"],
+          "correctIndex": 1
+        }
+      ]
     },
     {
-      "question": "Who invented the telephone?",
-      "options": ["Thomas Edison", "Alexander Graham Bell", "Isaac Newton", "Nikola Tesla"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which day is celebrated as World Environment Day?",
-      "options": ["June 5", "April 22", "March 21", "October 2"],
-      "correctIndex": 0
-    },
-    {
-      "question": "What is the national animal of India?",
-      "options": ["Elephant", "Lion", "Tiger", "Leopard"],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which festival is known as the Festival of Lights?",
-      "options": ["Holi", "Diwali", "Navratri", "Eid"],
-      "correctIndex": 1
-    }
-  ]
-},
-{
-  "name": "Technology",
-  "questions": [
-    {
-      "question": "Who is known as the father of the computer?",
-      "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
-      "correctIndex": 1
-    },
-    {
-      "question": "What does 'CPU' stand for?",
-      "options": ["Central Process Unit", "Central Processing Unit", "Computer Primary Unit", "Central Programming Unit"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which company developed the Android operating system?",
-      "options": ["Apple", "Microsoft", "Google", "IBM"],
-      "correctIndex": 2
-    },
-    {
-      "question": "What is the shortcut for 'Copy' on a Windows computer?",
-      "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + A"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which device is used to store data permanently?",
-      "options": ["RAM", "Hard Disk", "Cache", "Register"],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the full form of 'Wi-Fi'?",
-      "options": ["Wireless Fidelity", "Wired Finder", "Wide Finder", "Wireless Finder"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which of the following is a web browser?",
-      "options": ["Google", "Bing", "Chrome", "Windows"],
-      "correctIndex": 2
-    }
-  ]
-},
-{
-  "name": "Art & Culture",
-  "questions": [
-    {
-      "question": "Who painted the Mona Lisa?",
-      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which dance form originates from Kerala?",
-      "options": ["Bharatanatyam", "Kathakali", "Odissi", "Manipuri"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Taj Mahal was built by which Mughal emperor?",
-      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which instrument does a sitarist play?",
-      "options": ["Violin", "Flute", "Sitar", "Tabla"],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which festival marks the victory of good over evil in India?",
-      "options": ["Holi", "Navratri", "Dussehra", "Diwali"],
-      "correctIndex": 2
-    },
-    {
-      "question": "The Ajanta Caves are famous for what?",
-      "options": ["Sculptures", "Paintings", "Architecture", "Weapons"],
-      "correctIndex": 1
-    }
-  ]
-},
-{
-  "name": "Logic & Reasoning",
-  "questions": [
-    {
-      "question": "If all roses are flowers and some flowers fade quickly, then:",
-      "options": ["All roses fade quickly", "Some roses may fade quickly", "No roses fade quickly", "All flowers are roses"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Find the odd one out: 2, 4, 6, 9, 10",
-      "options": ["2", "4", "6", "9", "10"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which number should come next? 5, 10, 15, 20, __",
-      "options": ["22", "25", "24", "30"],
-      "correctIndex": 1
-    },
-    {
-      "question": "If 'DOG' = 26, 'CAT' = 24, then 'BAT' = ?",
-      "options": ["22", "23", "24", "25"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which shape has the fewest sides?",
-      "options": ["Triangle", "Square", "Pentagon", "Hexagon"],
-      "correctIndex": 0
-    },
-    {
-      "question": "If TODAY = 25, what is TOMORROW?",
-      "options": ["26", "27", "28", "29"],
-      "correctIndex": 1
+      "name": "Logic & Reasoning",
+      "questions": [
+        {
+          "question": "If all roses are flowers and some flowers fade quickly, then:",
+          "options": ["All roses fade quickly", "Some roses may fade quickly", "No roses fade quickly", "All flowers are roses"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Find the odd one out: 2, 4, 6, 9, 10",
+          "options": ["2", "4", "6", "9", "10"],
+          "correctIndex": 3
+        },
+        {
+          "question": "Which number should come next? 5, 10, 15, 20, __",
+          "options": ["22", "25", "24", "30"],
+          "correctIndex": 1
+        },
+        {
+          "question": "If 'DOG' = 26, 'CAT' = 24, then 'BAT' = ?",
+          "options": ["22", "23", "24", "25"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which shape has the fewest sides?",
+          "options": ["Triangle", "Square", "Pentagon", "Hexagon"],
+          "correctIndex": 0
+        },
+        {
+          "question": "If TODAY = 25, what is TOMORROW?",
+          "options": ["26", "27", "28", "29"],
+          "correctIndex": 1
+        }
+      ]
     }
   ]
 }
-]
-}
-
-
-
